@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7717],{181:(e,s,l)=>{l.r(s),l.d(s,{default:()=>t});l(7294);var r=l(6040),i=l(5893);function t(){return(0,i.jsx)(r.Z,{title:"Home",children:(0,i.jsxs)("div",{children:[(0,i.jsx)("h1",{children:"Hello, world!"}),(0,i.jsx)("p",{children:"Welcome to your new Docusaurus site."})]})})}}}]);
