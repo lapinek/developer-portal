@@ -89,7 +89,8 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="no-more-lorem-ipsum">No More Lorem Ipsum<a href="https://github.io/developer-portal/blog/long-blog-post#no-more-lorem-ipsum" class="hash-link" aria-label="Direct link to No More Lorem Ipsum" title="Direct link to No More Lorem Ipsum">​</a></h2>]]></content>
         <author>
             <name>Endilie Yacop Sucipto</name>
             <uri>https://github.com/endiliey</uri>
@@ -103,7 +104,15 @@
         <link href="https://github.io/developer-portal/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<ul>
+<li>
+<a href="http://localhost:3000/developer-portal/blog/long-blog-post#no-more-lorem-ipsum">Absolutely No More Lorem Ipsum</a>
+</li>
+<li>
+<a href="https://github.io/developer-portal/blog/long-blog-post#no-more-lorem-ipsum">Relatively No More Lorem Ipsum</a>
+</li>
+</ul>]]></content>
         <author>
             <name>Gao Wei</name>
             <uri>https://github.com/wgao19</uri>

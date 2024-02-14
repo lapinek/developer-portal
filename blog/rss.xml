@@ -74,7 +74,8 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="no-more-lorem-ipsum">No More Lorem Ipsum<a href="https://github.io/developer-portal/blog/long-blog-post#no-more-lorem-ipsum" class="hash-link" aria-label="Direct link to No More Lorem Ipsum" title="Direct link to No More Lorem Ipsum">​</a></h2>]]></content:encoded>
             <category>hello</category>
             <category>docusaurus</category>
         </item>
@@ -84,7 +85,15 @@
             <guid>https://github.io/developer-portal/blog/first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<ul>
+<li>
+<a href="http://localhost:3000/developer-portal/blog/long-blog-post#no-more-lorem-ipsum">Absolutely No More Lorem Ipsum</a>
+</li>
+<li>
+<a href="https://github.io/developer-portal/blog/long-blog-post#no-more-lorem-ipsum">Relatively No More Lorem Ipsum</a>
+</li>
+</ul>]]></content:encoded>
             <category>hola</category>
             <category>docusaurus</category>
         </item>
