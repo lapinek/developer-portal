@@ -107,10 +107,10 @@
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <ul>
 <li>
-<a href="https://lapinek.github.io/developer-portal/blog/long-blog-post#no-more-lorem-ipsum">Absolutely No More Lorem Ipsum</a>
+<a href="http://localhost:3000/developer-portal/blog/long-blog-post#no-more-lorem-ipsum">Absolutely No More Lorem Ipsum</a>
 </li>
 <li>
-<a href="https://github.io/developer-portal/long-blog-post#no-more-lorem-ipsum">Relatively No More Lorem Ipsum</a>
+<a href="https://github.io/developer-portal/blog/long-blog-post#no-more-lorem-ipsum">Relatively No More Lorem Ipsum</a>
 </li>
 </ul>]]></content>
         <author>
